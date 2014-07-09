@@ -36,3 +36,8 @@
 * Tomorrow Night Eighties.itermcolors
 * Tomorrow Night.itermcolors
 * Tomorrow.itermcolors
+
+## Miscellaneous themes
+
+* [stevelosh-monokai](https://gist.github.com/ilkka/1124966)
+
